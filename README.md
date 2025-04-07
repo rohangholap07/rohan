@@ -25,4 +25,4 @@ To switch between these themes, link the desired theme's CSS file in your HTML. 
 - [Linked-in](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rohan-gholap-00492a333)
 - [Instagram](https://www.instagram.com/rohan_gholap._07?igsh=MXdnbmRxbGQ4N2I2NA==)
 - [Facebook](https://www.facebook.com/share/19rE8pzYgY/)
-- [Github](https://github.com/Rohan45452)
+- [Github](https://github.com/rohangholap07)
